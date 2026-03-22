@@ -12,11 +12,7 @@ Delivered insights to support strategic business decision-making
 
 ## 🔹 Tools & Technologies Used
 
-SQL → Data extraction and analysis
-
-Microsoft Excel → Data cleaning and preprocessing
-
-Power BI → Dashboard creation and visualization
+Microsoft Excel → Data cleaning, preprocessing, Dashboard creation and visualization
 
 ## 🔹 Key Features
 
